@@ -1,6 +1,6 @@
 ---
 name: Task suggestion
-about: Suggest a task for refactoring or other non-feature/non-bug work.
+about: Suggest a task for refactoring or other non-feature/non-bug work
 title: "[TASK] "
 labels: ''
 assignees: znyi
